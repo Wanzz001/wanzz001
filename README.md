@@ -1,12 +1,16 @@
 # Hi there 👋
 I'm Wandi Ridwansyah. I'm a newbie mobile developer.
 
-## Tools:
-<img width="50px" src="https://www.cdnlogo.com/logos/a/36/android-studio.svg" />
+## Social Media:
+<a href="https://www.linkedin.com/in/wandi-ridwansyah-725426312/"> <img height="30px" src="https://www.cdnlogo.com/logos/l/66/linkedin-icon.svg" /> /a>
+<a href="https://instagram.com/wandy21._"> <img height="30px" src="https://www.cdnlogo.com/logos/i/28/instagram.svg" /> /a>
 
 ## My Stats:
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=wanzz001" />
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanzz001&layout=donut" />
+
+## Tools:
+<img width="50px" src="https://www.cdnlogo.com/logos/a/36/android-studio.svg" />
 
 ## Programming Language:
 <img align="left" width="30px" src="https://www.cdnlogo.com/logos/k/76/kotlin.svg" />
