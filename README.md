@@ -2,7 +2,7 @@
 I'm Wandi Ridwansyah. I'm a newbie mobile developer.
 
 ## Tools:
-<img width="30px" src="https://www.cdnlogo.com/logos/a/36/android-studio.svg" />
+<img width="50px" src="https://www.cdnlogo.com/logos/a/36/android-studio.svg" />
 
 ## Programming Language:
 <img align="left" width="30px" src="https://www.cdnlogo.com/logos/k/76/kotlin.svg" />
