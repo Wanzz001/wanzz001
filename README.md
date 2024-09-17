@@ -2,8 +2,8 @@
 I'm Wandi Ridwansyah. I'm a newbie mobile developer.
 
 ## Social Media:
-<a href="https://www.linkedin.com/in/wandi-ridwansyah-725426312/"> <img height="30px" src="https://www.cdnlogo.com/logos/l/66/linkedin-icon.svg" /> /a>
-<a href="https://instagram.com/wandy21._"> <img height="30px" src="https://www.cdnlogo.com/logos/i/93/instagram.svg" /> /a>
+<a href="https://www.linkedin.com/in/wandi-ridwansyah-725426312/"> <img height="30px" src="https://www.cdnlogo.com/logos/l/66/linkedin-icon.svg" />
+<a href="https://instagram.com/wandy21._"> <img height="30px" src="https://www.cdnlogo.com/logos/i/93/instagram.svg" />
 
 ## My Stats:
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=wanzz001" />
