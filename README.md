@@ -5,8 +5,8 @@ I'm Wandi Ridwansyah. I'm a newbie mobile developer.
 <img width="50px" src="https://www.cdnlogo.com/logos/a/36/android-studio.svg" />
 
 ## My Stats:
-<img height="100px" src="https://github-readme-stats.vercel.app/api?username=wanzz001" />
-<img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanzz001&layout=donut" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=wanzz001" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanzz001&layout=donut" />
 
 ## Programming Language:
 <img align="left" width="30px" src="https://www.cdnlogo.com/logos/k/76/kotlin.svg" />
