@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
+I'm Wandi Ridwansyah. I'm a newbie mobile developer.
 
-<!--
-**Wanzz001/wanzz001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools:
+<img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.vercel.app/androidstudio/" />
 
-Here are some ideas to get you started:
+## Programming Language:
+<img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.vercel.app/kotlin/" />
+<img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.vercel.app/jetpackcompose/" />
+<img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.vercel.app/dart/" />
+<img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.vercel.app/flutter/" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
